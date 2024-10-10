@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraSnake", "ExtraSnake.csproj", "{151B936E-996D-4773-8CCF-FE5CEA62DE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151B936E-996D-4773-8CCF-FE5CEA62DE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151B936E-996D-4773-8CCF-FE5CEA62DE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151B936E-996D-4773-8CCF-FE5CEA62DE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151B936E-996D-4773-8CCF-FE5CEA62DE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F37E02F-8E3B-4261-B7C4-75198EAF3D4D}
+	EndGlobalSection
+EndGlobal
